@@ -21,7 +21,6 @@ class jj_gblogsearch {
 
 		if ( isset($rss->items)) {
 		?>
-		asdas
 		<h3><?php _e('Google Blog Search'); ?> <cite><a href="<?php echo $google_blog_search_url . $myUrl; ?>"><?php _e('More &raquo;'); ?></a></cite></h3>
 		<ul>
 		<?php
